@@ -16,6 +16,7 @@
   <classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar" sourcepath="M2_REPO/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm-util/5.0.3/asm-util-5.0.3.jar" sourcepath="M2_REPO/org/ow2/asm/asm-util/5.0.3/asm-util-5.0.3-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/cglib/cglib/3.2.2/cglib-3.2.2.jar" sourcepath="M2_REPO/cglib/cglib/3.2.2/cglib-3.2.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" sourcepath="M2_REPO/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0.jar" sourcepath="M2_REPO/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" sourcepath="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/apache/ftpserver/ftplet-api/1.0.6/ftplet-api-1.0.6.jar" sourcepath="M2_REPO/org/apache/ftpserver/ftplet-api/1.0.6/ftplet-api-1.0.6-sources.jar"/>
