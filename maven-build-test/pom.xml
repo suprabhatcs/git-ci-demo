@@ -46,10 +46,10 @@
 		        <deploymentType>cloudhub</deploymentType>
 		         <!-- muleVersion is the runtime version as it appears on the CloudHub interface -->
 		        <muleVersion>3.8.0</muleVersion>
-		        <username>suprabhat-p2m</username>
+		        <username>suprabhat-acc</username>
 		        <password>${password}</password>
 		        <redeploy>true</redeploy>
-		        <environment>P2M-Development</environment>
+		        <environment>Development</environment>
 		    </configuration>
 		    <executions>
 		        <execution>

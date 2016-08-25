@@ -2,5 +2,5 @@ SUCCESS - Test maven-build-test-test-suite-maven-build-testFlowTest finished Suc
 SUCCESS - Test maven-build-test-test-suite-maven-build-testFlowTest1 finished Successfully.
 
 ===================================================================================
-Number of tests run: 2 - Failed: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 0.598ms
+Number of tests run: 2 - Failed: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 0.431ms
 ===================================================================================

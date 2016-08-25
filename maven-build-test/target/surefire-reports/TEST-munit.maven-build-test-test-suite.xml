@@ -1,4 +1,4 @@
-<testsuite name="maven-build-test-test-suite" time="0.598" failures="0" errors="0" skipped="0" tests="2">
+<testsuite name="maven-build-test-test-suite" time="0.431" failures="0" errors="0" skipped="0" tests="2">
   <properties>
     <property key="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property key="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin"/>
@@ -44,7 +44,7 @@
     <property key="user.name" value="suprabhat.k.vani"/>
     <property key="org.slf4j.simpleLogger.defaultLogLevel" value="debug"/>
     <property key="java.vm.specification.version" value="1.8"/>
-    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B package mule:deploy -X -Dpassword=Kiran@123 -e -f C:\Users\suprabhat.k.vani\git\maven-build\maven-build-test\pom.xml"/>
+    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B package mule:deploy -Dpassword=Kiran@123 -X -f C:\Users\suprabhat.k.vani\git\maven-build\maven-build-test\pom.xml"/>
     <property key="java.home" value="C:\Program Files\Java\jdk1.8.0_73\jre"/>
     <property key="sun.arch.data.model" value="64"/>
     <property key="user.language" value="en"/>
@@ -64,6 +64,6 @@
     <property key="sun.desktop" value="windows"/>
     <property key="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase time="0.39" name="maven-build-test-test-suite-maven-build-testFlowTest" classname="maven-build-test-test-suite"/>
-  <testcase time="0.208" name="maven-build-test-test-suite-maven-build-testFlowTest1" classname="maven-build-test-test-suite"/>
+  <testcase time="0.331" name="maven-build-test-test-suite-maven-build-testFlowTest" classname="maven-build-test-test-suite"/>
+  <testcase time="0.1" name="maven-build-test-test-suite-maven-build-testFlowTest1" classname="maven-build-test-test-suite"/>
 </testsuite>
