@@ -1,4 +1,4 @@
-<testsuite name="maven-build-test-test-suite" time="0.269" failures="0" errors="0" skipped="0" tests="2">
+<testsuite name="maven-build-test-test-suite" time="0.598" failures="0" errors="0" skipped="0" tests="2">
   <properties>
     <property key="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property key="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin"/>
@@ -39,11 +39,12 @@
     <property key="file.encoding" value="Cp1252"/>
     <property key="java.specification.version" value="1.8"/>
     <property key="log4j.configurationFile" value="file:/C:/Users/suprabhat.k.vani/git/maven-build/maven-build-test/target/test-classes/log4j2-test.xml"/>
-    <property key="password" value="Acc@123"/>
+    <property key="password" value="Kiran@123"/>
     <property key="java.class.path" value="C:\Program Files\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
     <property key="user.name" value="suprabhat.k.vani"/>
+    <property key="org.slf4j.simpleLogger.defaultLogLevel" value="debug"/>
     <property key="java.vm.specification.version" value="1.8"/>
-    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B package mule:deploy -Dpassword=Acc@123 -f C:\Users\suprabhat.k.vani\git\maven-build\maven-build-test\pom.xml"/>
+    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B package mule:deploy -X -Dpassword=Kiran@123 -e -f C:\Users\suprabhat.k.vani\git\maven-build\maven-build-test\pom.xml"/>
     <property key="java.home" value="C:\Program Files\Java\jdk1.8.0_73\jre"/>
     <property key="sun.arch.data.model" value="64"/>
     <property key="user.language" value="en"/>
@@ -63,6 +64,6 @@
     <property key="sun.desktop" value="windows"/>
     <property key="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase time="0.235" name="maven-build-test-test-suite-maven-build-testFlowTest" classname="maven-build-test-test-suite"/>
-  <testcase time="0.034" name="maven-build-test-test-suite-maven-build-testFlowTest1" classname="maven-build-test-test-suite"/>
+  <testcase time="0.39" name="maven-build-test-test-suite-maven-build-testFlowTest" classname="maven-build-test-test-suite"/>
+  <testcase time="0.208" name="maven-build-test-test-suite-maven-build-testFlowTest1" classname="maven-build-test-test-suite"/>
 </testsuite>

@@ -49,7 +49,7 @@
 		        <username>suprabhat-p2m</username>
 		        <password>${password}</password>
 		        <redeploy>true</redeploy>
-		        <environment>Development</environment>
+		        <environment>P2M-Development</environment>
 		    </configuration>
 		    <executions>
 		        <execution>
