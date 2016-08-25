@@ -47,7 +47,7 @@
 		         <!-- muleVersion is the runtime version as it appears on the CloudHub interface -->
 		        <muleVersion>3.8.0</muleVersion>
 		        <username>suprabhat-acc</username>
-		        <password>Acc@123</password>
+		        <password>${password}</password>
 		        <redeploy>true</redeploy>
 		        <environment>Production</environment>
 		    </configuration>
