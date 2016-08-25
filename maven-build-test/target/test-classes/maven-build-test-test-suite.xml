@@ -9,10 +9,10 @@ http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/cor
     </spring:beans>
     <munit:test name="maven-build-test-test-suite-maven-build-testFlowTest" description="Test">
         <flow-ref name="maven-build-testFlow" doc:name="Flow-ref to maven-build-testFlow"/>
-        <munit:assert-payload-equals message="OOPS" expectedValue="#['welcome to hasbro']" doc:name="Assert Payload"/>
+        <munit:assert-payload-equals message="OOPS" expectedValue="#['Welcome to hasbro continious integration']" doc:name="Assert Payload"/>
     </munit:test>
     <munit:test name="maven-build-test-test-suite-maven-build-testFlowTest1" description="Test">
         <flow-ref name="maven-build-testFlow" doc:name="Flow-ref to maven-build-testFlow"/>
-        <munit:assert-payload-equals message="OOPs" expectedValue="#['welcome to hasbro']" doc:name="Assert Payload"/>
+        <munit:assert-payload-equals message="OOPs" expectedValue="#['Welcome to hasbro continious integration']" doc:name="Assert Payload"/>
     </munit:test>
 </mule>
