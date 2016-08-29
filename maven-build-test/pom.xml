@@ -20,24 +20,6 @@
 
 	<build>
 		<plugins>
-	<!--    <plugin>
-	    <groupId>org.mule.tools.maven</groupId>
-	    <artifactId>mule-maven-plugin</artifactId>
-	    <version>2.0</version>
-	    <configuration>
-	        <deploymentType>standalone</deploymentType>
-	        <muleVersion>3.8.0</muleVersion>
-	    </configuration>
-	    <executions>
-	        <execution>
-	            <id>deploy</id>
-	            <phase>deploy</phase>
-	            <goals>
-	                <goal>deploy</goal>
-	            </goals>
-	        </execution>
-	    </executions>
-	   </plugin> -->
 		<plugin>
 		    <groupId>org.mule.tools.maven</groupId>
 		    <artifactId>mule-maven-plugin</artifactId>
@@ -46,10 +28,13 @@
 		        <deploymentType>cloudhub</deploymentType>
 		         <!-- muleVersion is the runtime version as it appears on the CloudHub interface -->
 		        <muleVersion>3.8.0</muleVersion>
-		        <username>suprabhat-acc</username>
+		        <businessGroup>P2M</businessGroup>
+		        <applicationName>${applicationName}</applicationName>
+		        <username>suprabhat-p2m</username>
 		        <password>${password}</password>
 		        <redeploy>true</redeploy>
-		        <environment>Development</environment>
+		        <workerType>Micro</workerType>
+		        <environment>${environment}</environment>
 		    </configuration>
 		    <executions>
 		        <execution>
