@@ -1,0 +1,67 @@
+<testsuite name="ci-demo-test-suite" time="0.372" failures="0" errors="0" skipped="0" tests="1">
+  <properties>
+    <property key="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property key="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin"/>
+    <property key="java.vm.version" value="25.73-b02"/>
+    <property key="maven.multiModuleProjectDirectory" value="C:\Users\suprabhat.k.vani\git\maven-build\ci-demo"/>
+    <property key="java.vm.vendor" value="Oracle Corporation"/>
+    <property key="java.vendor.url" value="http://java.oracle.com/"/>
+    <property key="guice.disable.misplaced.annotation.check" value="true"/>
+    <property key="path.separator" value=";"/>
+    <property key="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property key="file.encoding.pkg" value="sun.io"/>
+    <property key="user.country" value="US"/>
+    <property key="user.script" value=""/>
+    <property key="sun.java.launcher" value="SUN_STANDARD"/>
+    <property key="sun.os.patch.level" value="Service Pack 1"/>
+    <property key="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property key="user.dir" value="C:\Users\suprabhat.k.vani\git\maven-build\ci-demo"/>
+    <property key="java.runtime.version" value="1.8.0_73-b02"/>
+    <property key="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property key="mule.testingMode" value="true"/>
+    <property key="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\endorsed"/>
+    <property key="os.arch" value="amd64"/>
+    <property key="java.io.tmpdir" value="C:\Users\SUPRAB~1.VAN\AppData\Local\Temp\"/>
+    <property key="line.separator" value="&#xd;&#xa;"/>
+    <property key="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property key="user.variant" value=""/>
+    <property key="os.name" value="Windows 7"/>
+    <property key="classworlds.conf" value="C:\Program Files\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin\..\bin\m2.conf"/>
+    <property key="sun.jnu.encoding" value="Cp1252"/>
+    <property key="java.library.path" value="C:\Program Files\Java\jdk1.8.0_73\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_77/bin/server;C:/Program Files/Java/jre1.8.0_77/bin;C:/Program Files/Java/jre1.8.0_77/lib/amd64;C:\Program Files\Broadcom\Broadcom 802.11;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Git\cmd;C:\Users\suprabhat.k.vani\Downloads\A\AnypointStudio;;."/>
+    <property key="java.specification.name" value="Java Platform API Specification"/>
+    <property key="java.class.version" value="52.0"/>
+    <property key="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property key="os.version" value="6.1"/>
+    <property key="user.home" value="C:\Users\suprabhat.k.vani"/>
+    <property key="user.timezone" value="Asia/Calcutta"/>
+    <property key="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property key="file.encoding" value="Cp1252"/>
+    <property key="java.specification.version" value="1.8"/>
+    <property key="log4j.configurationFile" value="file:/C:/Users/suprabhat.k.vani/git/maven-build/ci-demo/target/test-classes/log4j2-test.xml"/>
+    <property key="cobertura.port" value="54534"/>
+    <property key="java.class.path" value="C:\Program Files\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property key="user.name" value="suprabhat.k.vani"/>
+    <property key="java.vm.specification.version" value="1.8"/>
+    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B package"/>
+    <property key="java.home" value="C:\Program Files\Java\jdk1.8.0_73\jre"/>
+    <property key="sun.arch.data.model" value="64"/>
+    <property key="user.language" value="en"/>
+    <property key="java.specification.vendor" value="Oracle Corporation"/>
+    <property key="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property key="java.vm.info" value="mixed mode"/>
+    <property key="java.version" value="1.8.0_73"/>
+    <property key="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property key="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_73\jre\classes"/>
+    <property key="java.vendor" value="Oracle Corporation"/>
+    <property key="maven.home" value="C:\Program Files\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin\.."/>
+    <property key="file.separator" value="\"/>
+    <property key="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property key="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property key="sun.cpu.endian" value="little"/>
+    <property key="mule.encoding" value="UTF-8"/>
+    <property key="sun.desktop" value="windows"/>
+    <property key="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase time="0.372" name="ci-demo-test-suite-ci-demoFlowTest" classname="ci-demo-test-suite"/>
+</testsuite>
