@@ -1,5 +1,5 @@
 SUCCESS - Test ci-demo-test-suite-ci-demoFlowTest finished Successfully.
 
 ===================================================================================
-Number of tests run: 1 - Failed: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 0.372ms
+Number of tests run: 1 - Failed: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 0.595ms
 ===================================================================================

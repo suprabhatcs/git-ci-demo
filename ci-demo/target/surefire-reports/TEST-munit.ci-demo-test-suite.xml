@@ -1,4 +1,4 @@
-<testsuite name="ci-demo-test-suite" time="0.372" failures="0" errors="0" skipped="0" tests="1">
+<testsuite name="ci-demo-test-suite" time="0.595" failures="0" errors="0" skipped="0" tests="1">
   <properties>
     <property key="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property key="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin"/>
@@ -39,7 +39,6 @@
     <property key="file.encoding" value="Cp1252"/>
     <property key="java.specification.version" value="1.8"/>
     <property key="log4j.configurationFile" value="file:/C:/Users/suprabhat.k.vani/git/maven-build/ci-demo/target/test-classes/log4j2-test.xml"/>
-    <property key="cobertura.port" value="54534"/>
     <property key="java.class.path" value="C:\Program Files\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
     <property key="user.name" value="suprabhat.k.vani"/>
     <property key="java.vm.specification.version" value="1.8"/>
@@ -63,5 +62,5 @@
     <property key="sun.desktop" value="windows"/>
     <property key="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase time="0.372" name="ci-demo-test-suite-ci-demoFlowTest" classname="ci-demo-test-suite"/>
+  <testcase time="0.595" name="ci-demo-test-suite-ci-demoFlowTest" classname="ci-demo-test-suite"/>
 </testsuite>
